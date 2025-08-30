@@ -8,16 +8,16 @@
 # 3.   Calls the function with a sample number and prints the output.
 
 
-# def factorial(n) :
-#     result = 1
-#     for i in range(1, n  ):
-#         result *= i
-#     return result
+def factorial(n) :
+    result = 1
+    for i in range(1, n  ):
+        result *= i
+    return result
 
-# num = 5
-# print(f"Factorial of {num} is {factorial(num)}")
+num = 5
+print(f"Factorial of {num} is {factorial(num)}")
 
-# Task 2: Using the Math Module for Calculations
+Task 2: Using the Math Module for Calculations
  
 # Problem Statement: Write a Python program that:
 # 1.   Asks the user for a number as input.
